@@ -1,0 +1,27 @@
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\hemsu\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\hemsu\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package punkt_tab to
+[nltk_data]     C:\Users\hemsu\AppData\Roaming\nltk_data...
+[nltk_data]   Unzipping tokenizers\punkt_tab.zip.
+[nltk_data] Downloading package wordnet to
+[nltk_data]     C:\Users\hemsu\AppData\Roaming\nltk_data...
+[nltk_data]   Package wordnet is already up-to-date!
+Preprocessing text data...
+Vectorizing text data...
+Training model...
+Evaluating model...
+Accuracy: 0.9502580947911778
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.95      1.00      0.97      5937
+     Neutral       0.91      0.34      0.49       456
+
+    accuracy                           0.95      6393
+   macro avg       0.93      0.67      0.73      6393
+weighted avg       0.95      0.95      0.94      6393
+
